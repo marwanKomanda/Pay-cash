@@ -1,0 +1,11 @@
+{
+  "name": "Pay-cash",
+  "version": "1.0.0",
+  "main": "pay.js",
+  "scripts": {
+    "start": "node pay.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
